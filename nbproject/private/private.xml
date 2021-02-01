@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/control/CalculateCommand.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/ui/MoneyDialog.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/control/Command.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/MainFrame.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/model/ExchangeRate.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/persistence/CurrencyListLoader.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/ui/swing/SwingMoneyDialog.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/persistence/rest/RestExchangeRateLoader.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/persistence/files/FileCurrencyListLoader.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/Main.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/ui/MoneyDisplay.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/ui/swing/SwingMoneyDisplay.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/persistence/ExchangeRateLoader.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/model/Currency.java</file>
+            <file>file:/C:/Users/Nigel/Documents/NetBeansProjects/MoneyCalculator/src/moneycalculator/model/Money.java</file>
+        </group>
+    </open-files>
+</project-private>
